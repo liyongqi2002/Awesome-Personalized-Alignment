@@ -1,2 +1,9 @@
 # Awesome-Personalized-Alignment
-A curated list of personalized alignment resources (continually updated).
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Stars](https://img.shields.io/github/stars/liyongqi2002/Awesome-Personalized-Alignment)](.)
+
+## Introduction 
+
+
+- [2024/02] **[Position: A Roadmap to Pluralistic Alignment](https://openreview.net/forum?id=gQpBnRHwxM)**
