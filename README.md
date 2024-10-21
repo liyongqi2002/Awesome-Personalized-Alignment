@@ -7,10 +7,10 @@
 (Preparing...)
 
 
-## Introduction 
+## 1 Papers 
 
 
-### 1. Position and Survey Paper
+### 1.1 Position and Survey Paper
 
 - [2024/10] **[When large language models meet personalization: perspectives of challenges and opportunities](https://doi.org/10.1007/s11280-024-01276-1)** [World Wide Web Journal]
 - [2024/07] **[The Multilingual Alignment Prism: Aligning Global and Local Preferences to Reduce Harm](https://arxiv.org/abs/2406.18682)** [arXiv]
@@ -19,8 +19,13 @@
 <!-- - [2024/] **[]()** [] -->
 
 
-### 2. Personalized Preference
+### 1.2 Personalized Preference
 
+<!-- - [2024/] **[]()** [] -->
+<!-- - [2024/] **[]()** [] -->
+- [2024/10] **[MetaAlign: Align Large Language Models with Diverse Preferences during Inference Time](https://arxiv.org/abs/2410.14184)** [arXiv]
+- [2024/10] **[LLMs are Biased Teachers: Evaluating LLM Bias in Personalized Education](https://arxiv.org/abs/2410.14012)** [arXiv]
+- [2024/10] **[Personalized Adaptation via In-Context Preference Learning](https://arxiv.org/abs/2410.14001)** [arXiv]
 - [2024/10] **[Aligning LLMs with Individual Preferences via Interaction](http://arxiv.org/abs/2410.03642)** [arXiv]
 - [2024/10] **[Controllable Safety Alignment: Inference-Time Adaptation to Diverse Safety Requirements](http://arxiv.org/abs/2410.08968)** [arXiv]
 - [2024/10] **[PAD: Personalized Alignment at Decoding-Time](http://arxiv.org/abs/2410.04070)** [arXiv]
@@ -36,7 +41,12 @@
 
 
 
-### 3. Personalized Dialogue
+### 1.3 Personalized Dialogue
+
 - [2024/10] **[Personalized Visual Instruction Tuning](http://arxiv.org/abs/2410.07113)** [arXiv]
 - [2024/06] **[Yo'LLaVA: Your Personalized Language and Vision Assistant](http://arxiv.org/abs/2406.09400)** [arXiv]
 <!-- - [2024/] **[]()** [] -->
+
+
+<!-- ## 2 Dataset -->
+
