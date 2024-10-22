@@ -23,6 +23,7 @@
 
 <!-- - [2024/] **[]()** [] -->
 <!-- - [2024/] **[]()** [] -->
+- [2024/] **[ComPO: Community Preferences for Language Model Personalization](https://arxiv.org/abs/2410.16027)** [arXiv]
 - [2024/10] **[MetaAlign: Align Large Language Models with Diverse Preferences during Inference Time](https://arxiv.org/abs/2410.14184)** [arXiv]
 - [2024/10] **[LLMs are Biased Teachers: Evaluating LLM Bias in Personalized Education](https://arxiv.org/abs/2410.14012)** [arXiv]
 - [2024/10] **[Personalized Adaptation via In-Context Preference Learning](https://arxiv.org/abs/2410.14001)** [arXiv]
@@ -36,8 +37,6 @@
 - [2024/06] **[Few-shot Personalization of LLMs with Mis-aligned Responses](http://arxiv.org/abs/2406.18678)** [arXiv]
 - [2024/06] **[Modular Pluralism: Pluralistic Alignment via Multi-LLM Collaboration](https://arxiv.org/abs/2406.15951)** [EMNLP 2024]
 - [2024/02] **[Personalized Language Modeling from Personalized Human Feedback](https://arxiv.org/abs/2402.05133)** [arXiv]
-<!-- - [2024/] **[]()** [] -->
-
 
 
 
