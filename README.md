@@ -4,8 +4,6 @@
 [![Stars](https://img.shields.io/github/stars/liyongqi2002/Awesome-Personalized-Alignment)](.)
 
 
-(Preparing...)
-
 
 ## 1 Papers 
 
