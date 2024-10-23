@@ -23,6 +23,7 @@
 
 <!-- - [2024/] **[]()** [] -->
 <!-- - [2024/] **[]()** [] -->
+- [2024/10] **[Large Language Models Empowered Personalized Web Agents](https://arxiv.org/abs/2410.17236)** [arXiv]
 - [2024/10] **[ComPO: Community Preferences for Language Model Personalization](https://arxiv.org/abs/2410.16027)** [arXiv]
 - [2024/10] **[MetaAlign: Align Large Language Models with Diverse Preferences during Inference Time](https://arxiv.org/abs/2410.14184)** [arXiv]
 - [2024/10] **[LLMs are Biased Teachers: Evaluating LLM Bias in Personalized Education](https://arxiv.org/abs/2410.14012)** [arXiv]
