@@ -45,6 +45,10 @@
 - [2024/06] **[Yo'LLaVA: Your Personalized Language and Vision Assistant](http://arxiv.org/abs/2406.09400)** [arXiv]
 <!-- - [2024/] **[]()** [] -->
 
+## 2 Workshops, Tutorials
 
-<!-- ## 2 Dataset -->
+- [2024/12] **[Pluralistic Alignment](https://pluralistic-alignment.github.io/)** [Pluralistic Alignment @ NeurIPS 2024]
+
+
+<!-- ## Dataset -->
 
