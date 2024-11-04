@@ -18,7 +18,7 @@
 <!-- - [2024/] **[]()** [] -->
 
 
-### 1.2 Personalized Preference
+### 1.2 Personalized Preference Alignment
 
 <!-- - [2024/] **[]()** [] -->
 <!-- - [2024/] **[]()** [] -->
@@ -34,20 +34,22 @@
 - [2024/10] **[MAP: Multi-Human-Value Alignment Palette](https://openreview.net/forum?id=NN6QHwgRrQ)** [OpenReview]
 - [2024/10] **[PAL: Sample-Efficient Personalized Reward Modeling for Pluralistic Alignment](https://openreview.net/forum?id=1kFDrYCuSu)** [OpenReview]
 - [2024/09] **[PersonalLLM: Tailoring LLMs to Individual Preferences](http://arxiv.org/abs/2409.20296)** [arXiv]
+- [2024/08] **[Persona-DB: Efficient Large Language Model Personalization for Response Prediction with Collaborative Data Refinement](https://arxiv.org/abs/2402.11060)** [arXiv]
 - [2024/08] **[Personalizing Reinforcement Learning from Human Feedback with Variational Preference Learning](http://arxiv.org/abs/2408.10075)** [arXiv]
+- [2024/06] **[Show, Don't Tell: Aligning Language Models with Demonstrated Feedback](https://arxiv.org/abs/2406.00888)** [arXiv]
 - [2024/06] **[Few-shot Personalization of LLMs with Mis-aligned Responses](http://arxiv.org/abs/2406.18678)** [arXiv]
 - [2024/06] **[Modular Pluralism: Pluralistic Alignment via Multi-LLM Collaboration](https://arxiv.org/abs/2406.15951)** [EMNLP 2024]
 - [2024/05] **[RLHF from Heterogeneous Feedback via Personalization and Preference Aggregation](https://arxiv.org/abs/2405.00254)** [arXiv]
+- [2024/04] **[The PRISM Alignment Project: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models](https://arxiv.org/abs/2404.16019)** [arXiv]
 - [2024/02] **[Personalized Language Modeling from Personalized Human Feedback](https://arxiv.org/abs/2402.05133)** [arXiv]
 - [2023/10] **[Personalized Soups: Personalized Large Language Model Alignment via Post-hoc Parameter Merging](https://arxiv.org/abs/2310.11564)** [arXiv]
 
 
 
-### 1.3 Personalized Dialogue
-
-- [2024/] **[PMG : Personalized Multimodal Generation with Large Language](https://dl.acm.org/doi/abs/10.1145/3589334.3645633)** [WWW 2024]
 - [2024/10] **[Personalized Visual Instruction Tuning](http://arxiv.org/abs/2410.07113)** [arXiv]
 - [2024/06] **[Yo'LLaVA: Your Personalized Language and Vision Assistant](http://arxiv.org/abs/2406.09400)** [arXiv]
+- [2024/05] **[Aligning to Thousands of Preferences via System Message Generalization](https://arxiv.org/abs/2405.17977)** [arXiv]
+- [2024/05] **[PMG : Personalized Multimodal Generation with Large Language](https://dl.acm.org/doi/abs/10.1145/3589334.3645633)** [WWW 2024]
 <!-- - [2024/] **[]()** [] -->
 
 ## 2 Workshops, Tutorials
