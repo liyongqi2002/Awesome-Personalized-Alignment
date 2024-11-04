@@ -10,7 +10,7 @@
 
 ### 1.1 Position and Survey Paper
 
-- [2024/11] **[Personalization of Large Language Models: A Survey](https://arxiv.org/pdf/2411.00027)** [arXiv]
+- [2024/11] **[Personalization of Large Language Models: A Survey](https://arxiv.org/abs/2411.00027)** [arXiv]
 - [2024/10] **[When large language models meet personalization: perspectives of challenges and opportunities](https://doi.org/10.1007/s11280-024-01276-1)** [World Wide Web Journal]
 - [2024/07] **[The Multilingual Alignment Prism: Aligning Global and Local Preferences to Reduce Harm](https://arxiv.org/abs/2406.18682)** [arXiv]
 - [2024/04] **[The benefits, risks and bounds of personalizing the alignment of large language models to individuals](https://www.nature.com/articles/s42256-024-00820-y)** [Nature Machine Intelligence]
@@ -37,6 +37,7 @@
 - [2024/08] **[Personalizing Reinforcement Learning from Human Feedback with Variational Preference Learning](http://arxiv.org/abs/2408.10075)** [arXiv]
 - [2024/06] **[Few-shot Personalization of LLMs with Mis-aligned Responses](http://arxiv.org/abs/2406.18678)** [arXiv]
 - [2024/06] **[Modular Pluralism: Pluralistic Alignment via Multi-LLM Collaboration](https://arxiv.org/abs/2406.15951)** [EMNLP 2024]
+- [2024/] **[RLHF from Heterogeneous Feedback via Personalization and Preference Aggregation](https://arxiv.org/abs/2405.00254)** [arXiv]
 - [2024/02] **[Personalized Language Modeling from Personalized Human Feedback](https://arxiv.org/abs/2402.05133)** [arXiv]
 - [2023/10] **[Personalized Soups: Personalized Large Language Model Alignment via Post-hoc Parameter Merging](https://arxiv.org/abs/2310.11564)** [arXiv]
 
