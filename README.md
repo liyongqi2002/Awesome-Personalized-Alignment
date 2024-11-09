@@ -45,6 +45,7 @@
 - [2024/04] **[The PRISM Alignment Project: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models](https://arxiv.org/abs/2404.16019)** [arXiv]
 - [2024/02] **[Personalized Language Modeling from Personalized Human Feedback](https://arxiv.org/abs/2402.05133)** [arXiv]
 - [2023/10] **[Personalized Soups: Personalized Large Language Model Alignment via Post-hoc Parameter Merging](https://arxiv.org/abs/2310.11564)** [arXiv]
+- [2024/09] **[Everyone Deserves A Reward: Learning Customized Human Preferences](https://arxiv.org/abs/2309.03126)** [arXiv]
 
 ### 1.2 Personalized Generation
 
