@@ -10,6 +10,7 @@
 
 ### 1.1 Position and Survey Paper
 
+- [2024/12] **[Personalized Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2412.02142)** [arXiv]
 - [2024/11] **[Personalization of Large Language Models: A Survey](https://arxiv.org/abs/2411.00027)** [arXiv]
 - [2024/10] **[When large language models meet personalization: perspectives of challenges and opportunities](https://doi.org/10.1007/s11280-024-01276-1)** [World Wide Web Journal]
 - [2024/07] **[The Multilingual Alignment Prism: Aligning Global and Local Preferences to Reduce Harm](https://arxiv.org/abs/2406.18682)** [arXiv]
