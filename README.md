@@ -24,6 +24,7 @@
 <!-- - [2024/] **[]()** [] -->
 <!-- - [2024/] **[]()** [] -->
 
+- [2024/12] **[AI PERSONA: Towards Life-long Personalization of LLMs](https://arxiv.org/abs/2412.13103)** [arXiv]
 - [2024/11] **[BAPO: Base-Anchored Preference Optimization for Overcoming Forgetting in Large Language Models Personalization](https://aclanthology.org/2024.findings-emnlp.398.pdf)** [EMNLP 2024]
 - [2024/10] **[Large Language Models Empowered Personalized Web Agents](https://arxiv.org/abs/2410.17236)** [arXiv]
 - [2024/10] **[ComPO: Community Preferences for Language Model Personalization](https://arxiv.org/abs/2410.16027)** [arXiv]
