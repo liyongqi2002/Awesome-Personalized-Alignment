@@ -3,12 +3,12 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/liyongqi2002/Awesome-Personalized-Alignment)](.)
 
-
+(We currently mainly focus on personalized preference)
 
 ## 1 Papers 
 
 
-### 1.1 Position and Survey Paper
+### 1.1 Relevant Position and Survey Paper
 
 - [2024/12] **[Personalized Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2412.02142)** [arXiv]
 - [2024/11] **[Personalization of Large Language Models: A Survey](https://arxiv.org/abs/2411.00027)** [arXiv]
@@ -53,16 +53,6 @@
 - [2025/02] **[Amulet: ReAlignment During Test Time for Personalized Preference Adaptation of LLMs](https://arxiv.org/abs/2502.19148) [arXiv]
 - [2025/02] **[When Personalization Meets Reality: A Multi-Faceted Analysis of Personalized Preference Learning](https://arxiv.org/abs/2502.19158) [arXiv]
 
-### 1.2 Personalized Generation
-
-- [2024/10] **[Personalized Visual Instruction Tuning](http://arxiv.org/abs/2410.07113)** [arXiv]
-- [2024/06] **[Yo'LLaVA: Your Personalized Language and Vision Assistant](http://arxiv.org/abs/2406.09400)** [arXiv]
-- [2024/05] **[PMG: Personalized Multimodal Generation with Large Language](https://dl.acm.org/doi/abs/10.1145/3589334.3645633)** [WWW 2024]
-<!-- - [2024/] **[]()** [] -->
-
-## 2 Workshops, Tutorials
-
-- [2024/12] **[Pluralistic Alignment](https://pluralistic-alignment.github.io/)** [Pluralistic Alignment @ NeurIPS 2024]
 
 
 <!-- ## Dataset -->
