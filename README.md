@@ -49,7 +49,10 @@
 - [2023/10] **[Personalized Soups: Personalized Large Language Model Alignment via Post-hoc Parameter Merging](https://arxiv.org/abs/2310.11564)** [arXiv]
 - [2024/09] **[Everyone Deserves A Reward: Learning Customized Human Preferences](https://arxiv.org/abs/2309.03126)** [arXiv]
 - [2025/02] **[Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs](https://arxiv.org/abs/2309.03126)** [ICLR 2025]
-  
+- [2025/02] **[PEToolLLM: Towards Personalized Tool Learning in Large Language Models](https://arxiv.org/abs/2502.18980) [arXiv]
+- [2025/02] **[Amulet: ReAlignment During Test Time for Personalized Preference Adaptation of LLMs](https://arxiv.org/abs/2502.19148) [arXiv]
+- [2025/02] **[When Personalization Meets Reality: A Multi-Faceted Analysis of Personalized Preference Learning](https://arxiv.org/abs/2502.19158) [arXiv]
+
 ### 1.2 Personalized Generation
 
 - [2024/10] **[Personalized Visual Instruction Tuning](http://arxiv.org/abs/2410.07113)** [arXiv]
