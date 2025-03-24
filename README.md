@@ -16,6 +16,7 @@
 - [2024/07] **[The Multilingual Alignment Prism: Aligning Global and Local Preferences to Reduce Harm](https://arxiv.org/abs/2406.18682)** [arXiv]
 - [2024/04] **[The benefits, risks and bounds of personalizing the alignment of large language models to individuals](https://www.nature.com/articles/s42256-024-00820-y)** [Nature Machine Intelligence]
 - [2024/02] **[Position: A Roadmap to Pluralistic Alignment](https://openreview.net/forum?id=gQpBnRHwxM)** [ICML 2024]
+- [2024/03] **[A Survey on Personalized Alignment -- The Missing Piece for Large Language Models in Real-World Applications](https://arxiv.org/abs/2503.17003)** [arXiv]
 <!-- - [2024/] **[]()** [] -->
 
 
