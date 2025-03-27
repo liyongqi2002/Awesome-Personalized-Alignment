@@ -34,6 +34,7 @@ Our current focus is primarily on the first direction, i.e., Personalized Assist
 <!-- - [2024/] **[]()** [] -->
 <!-- - [2024/] **[]()** [] -->
 
+- [2025/03] **[EmpathyAgent: Can Embodied Agents Conduct Empathetic Actions?](https://www.arxiv.org/abs/2503.16545)** [arXiv]
 - [2025/03] **[From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment](https://arxiv.org/abs/2503.15463)** [arXiv]
 - [2025/03] **[Toward Multi-Session Personalized Conversation: A Large-Scale Dataset and Hierarchical Tree Framework for Implicit Reasoning](https://arxiv.org/abs/2503.07018)** [arXiv]
 - [2025/02] **[When Personalization Meets Reality: A Multi-Faceted Analysis of Personalized Preference Learning](https://arxiv.org/abs/2502.19158)** [arXiv]
