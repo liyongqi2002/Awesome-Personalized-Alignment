@@ -19,13 +19,13 @@ Our current focus is primarily on the first direction, i.e., Personalized Assist
 
 ### 1.1 Relevant Position and Survey Paper
 
+- [2025/03] **[A Survey on Personalized Alignment -- The Missing Piece for Large Language Models in Real-World Applications](https://arxiv.org/abs/2503.17003)** [arXiv]
 - [2024/12] **[Personalized Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2412.02142)** [arXiv]
 - [2024/11] **[Personalization of Large Language Models: A Survey](https://arxiv.org/abs/2411.00027)** [arXiv]
 - [2024/10] **[When large language models meet personalization: perspectives of challenges and opportunities](https://doi.org/10.1007/s11280-024-01276-1)** [World Wide Web Journal]
 - [2024/07] **[The Multilingual Alignment Prism: Aligning Global and Local Preferences to Reduce Harm](https://arxiv.org/abs/2406.18682)** [arXiv]
 - [2024/04] **[The benefits, risks and bounds of personalizing the alignment of large language models to individuals](https://www.nature.com/articles/s42256-024-00820-y)** [Nature Machine Intelligence]
 - [2024/02] **[Position: A Roadmap to Pluralistic Alignment](https://openreview.net/forum?id=gQpBnRHwxM)** [ICML 2024]
-- [2024/03] **[A Survey on Personalized Alignment -- The Missing Piece for Large Language Models in Real-World Applications](https://arxiv.org/abs/2503.17003)** [arXiv]
 <!-- - [2024/] **[]()** [] -->
 
 
@@ -34,6 +34,13 @@ Our current focus is primarily on the first direction, i.e., Personalized Assist
 <!-- - [2024/] **[]()** [] -->
 <!-- - [2024/] **[]()** [] -->
 
+- [2025/03] **[From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment](https://arxiv.org/abs/2503.15463)** [arXiv]
+- [2025/03] **[Toward Multi-Session Personalized Conversation: A Large-Scale Dataset and Hierarchical Tree Framework for Implicit Reasoning](https://arxiv.org/abs/2503.07018)** [arXiv]
+- [2025/02] **[When Personalization Meets Reality: A Multi-Faceted Analysis of Personalized Preference Learning](https://arxiv.org/abs/2502.19158)** [arXiv]
+- [2025/02] **[Amulet: ReAlignment During Test Time for Personalized Preference Adaptation of LLMs](https://arxiv.org/abs/2502.19148)** [arXiv]
+- [2025/02] **[PEToolLLM: Towards Personalized Tool Learning in Large Language Models](https://arxiv.org/abs/2502.18980)** [arXiv]
+- [2025/02] **[Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs](https://arxiv.org/abs/2309.03126)** [ICLR 2025]
+- [2024/09] **[Everyone Deserves A Reward: Learning Customized Human Preferences](https://arxiv.org/abs/2309.03126)** [arXiv]
 - [2024/12] **[AI PERSONA: Towards Life-long Personalization of LLMs](https://arxiv.org/abs/2412.13103)** [arXiv]
 - [2024/11] **[BAPO: Base-Anchored Preference Optimization for Overcoming Forgetting in Large Language Models Personalization](https://aclanthology.org/2024.findings-emnlp.398.pdf)** [EMNLP 2024]
 - [2024/10] **[Large Language Models Empowered Personalized Web Agents](https://arxiv.org/abs/2410.17236)** [arXiv]
@@ -57,13 +64,6 @@ Our current focus is primarily on the first direction, i.e., Personalized Assist
 - [2024/04] **[The PRISM Alignment Project: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models](https://arxiv.org/abs/2404.16019)** [arXiv]
 - [2024/02] **[Personalized Language Modeling from Personalized Human Feedback](https://arxiv.org/abs/2402.05133)** [arXiv]
 - [2023/10] **[Personalized Soups: Personalized Large Language Model Alignment via Post-hoc Parameter Merging](https://arxiv.org/abs/2310.11564)** [arXiv]
-- [2024/09] **[Everyone Deserves A Reward: Learning Customized Human Preferences](https://arxiv.org/abs/2309.03126)** [arXiv]
-- [2025/02] **[Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs](https://arxiv.org/abs/2309.03126)** [ICLR 2025]
-- [2025/02] **[PEToolLLM: Towards Personalized Tool Learning in Large Language Models](https://arxiv.org/abs/2502.18980)** [arXiv]
-- [2025/02] **[Amulet: ReAlignment During Test Time for Personalized Preference Adaptation of LLMs](https://arxiv.org/abs/2502.19148)** [arXiv]
-- [2025/02] **[When Personalization Meets Reality: A Multi-Faceted Analysis of Personalized Preference Learning](https://arxiv.org/abs/2502.19158)** [arXiv]
-- [2025/03] **[Toward Multi-Session Personalized Conversation: A Large-Scale Dataset and Hierarchical Tree Framework for Implicit Reasoning](https://arxiv.org/abs/2503.07018)** [arXiv]
-- [2025/03] **[From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment](https://arxiv.org/abs/2503.15463)** [arXiv]
 
 <!-- ## Dataset -->
 
