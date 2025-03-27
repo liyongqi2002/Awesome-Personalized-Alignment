@@ -10,7 +10,7 @@ Personalized Alignment can be broadly categorized into two directions based on u
 
 2. **Intrinsic Personalization**: This focuses on enabling AI to exhibit personalized internal characteristics and personality traits, akin to role-playing. This approach is utilized in social simulations or the development of social robots.
 
-Our current focus is primarily on the first direction, specifically Personalized Assistants. For the latter, Intrinsic Personalization, we suggest exploring papers related to the role-playing studies of LLMs.
+Our current focus is primarily on the first direction, i.e., Personalized Assistant. For the latter, Intrinsic Personalization, we suggest exploring papers related to the role-playing studies of LLMs.
 
 
 
