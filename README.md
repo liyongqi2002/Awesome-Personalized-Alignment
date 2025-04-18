@@ -17,7 +17,7 @@ Our current focus is primarily on the first direction, i.e., Personalized Assist
 ## 1 Papers 
 
 
-### 1.1 Relevant Position and Survey Paper
+### 1.1 Relevant Position and Survey Papers
 
 - [2025/04] **[A Survey on Personalized and Pluralistic Preference Alignment in Large Language Models](https://arxiv.org/abs/2504.07070v1)** [arXiv]
 - [2025/03] **[A Survey on Personalized Alignment -- The Missing Piece for Large Language Models in Real-World Applications](https://arxiv.org/abs/2503.17003)** [arXiv]
