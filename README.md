@@ -35,6 +35,7 @@ Our current focus is primarily on the first direction, i.e., Personalized Assist
 <!-- - [2024/] **[]()** [] -->
 <!-- - [2024/] **[]()** [] -->
 
+- [2025/04] **[LoRe: Personalizing LLMs via Low-Rank Reward Modeling](https://arxiv.org/abs/2504.14439)** [arXiv]
 - [2025/04] **[Persona-judge: Personalized Alignment of Large Language Models via Token-level Self-judgment](https://arxiv.org/abs/2504.12663)** [arXiv]
 - [2025/03] **[EmpathyAgent: Can Embodied Agents Conduct Empathetic Actions?](https://www.arxiv.org/abs/2503.16545)** [arXiv]
 - [2025/03] **[From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment](https://arxiv.org/abs/2503.15463)** [arXiv]
