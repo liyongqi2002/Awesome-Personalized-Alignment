@@ -25,6 +25,7 @@ Our current focus is primarily on the first direction, i.e., Personalized Assist
 - [2024/11] **[Personalization of Large Language Models: A Survey](https://arxiv.org/abs/2411.00027)**
 - [2024/10] **[When large language models meet personalization: perspectives of challenges and opportunities](https://doi.org/10.1007/s11280-024-01276-1)**
 - [2024/07] **[The Multilingual Alignment Prism: Aligning Global and Local Preferences to Reduce Harm](https://arxiv.org/abs/2406.18682)**
+- [2024/05] **[Recent Trends in Personalized Dialogue Generation: A Review of Datasets, Methodologies, and Evaluations](https://aclanthology.org/2024.lrec-main.1192/)**
 - [2024/04] **[The benefits, risks and bounds of personalizing the alignment of large language models to individuals](https://www.nature.com/articles/s42256-024-00820-y)**
 - [2024/02] **[Position: A Roadmap to Pluralistic Alignment](https://openreview.net/forum?id=gQpBnRHwxM)**
 <!-- - [2024/] **[]()** [] -->
