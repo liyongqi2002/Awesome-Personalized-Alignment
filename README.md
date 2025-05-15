@@ -21,6 +21,7 @@ Our current focus is primarily on the first direction, i.e., Personalized Assist
 
 - [2025/04] **[A Survey on Personalized and Pluralistic Preference Alignment in Large Language Models](https://arxiv.org/abs/2504.07070v1)**
 - [2025/03] **[A Survey on Personalized Alignment -- The Missing Piece for Large Language Models in Real-World Applications](https://arxiv.org/abs/2503.17003)**
+- [2024/12] **[Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization](https://aclanthology.org/2024.findings-emnlp.969/)**
 - [2024/12] **[Personalized Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2412.02142)**
 - [2024/11] **[Personalization of Large Language Models: A Survey](https://arxiv.org/abs/2411.00027)**
 - [2024/10] **[When large language models meet personalization: perspectives of challenges and opportunities](https://doi.org/10.1007/s11280-024-01276-1)**
