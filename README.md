@@ -37,6 +37,7 @@ Our current focus is primarily on the first direction, i.e., Personalized Assist
 <!-- - [2024/] **[]()** [] -->
 <!-- - [2024/] **[]()** [] -->
 
+- [2025/05] **[A Personalized Conversational Benchmark: Towards Simulating Personalized Conversations](https://arxiv.org/abs/2505.14106)**
 - [2025/04] **[LoRe: Personalizing LLMs via Low-Rank Reward Modeling](https://arxiv.org/abs/2504.14439)**
 - [2025/04] **[Persona-judge: Personalized Alignment of Large Language Models via Token-level Self-judgment](https://arxiv.org/abs/2504.12663)**
 - [2025/03] **[EmpathyAgent: Can Embodied Agents Conduct Empathetic Actions?](https://www.arxiv.org/abs/2503.16545)**
