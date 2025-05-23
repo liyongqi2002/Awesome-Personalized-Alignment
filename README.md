@@ -37,6 +37,7 @@ Our current focus is primarily on the first direction, i.e., Personalized Assist
 <!-- - [2024/] **[]()** [] -->
 <!-- - [2024/] **[]()** [] -->
 
+- [2025/05] **[Steering Large Language Models for Machine Translation Personalization](https://arxiv.org/abs/2505.16612)**
 - [2025/05] **[From Generic Empathy to Personalized Emotional Support: A Self-Evolution Framework for User Preference Alignment](https://arxiv.org/abs/2505.16610)**
 - [2025/05] **[Embodied Agents Meet Personalization: Exploring Memory Utilization for Personalized Assistance](https://arxiv.org/abs/2505.16348)**
 - [2025/05] **[Teaching Language Models to Evolve with Users: Dynamic Profile Modeling for Personalized Alignment](https://arxiv.org/abs/2505.15456)**
