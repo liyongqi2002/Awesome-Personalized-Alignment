@@ -36,7 +36,7 @@ Our current focus is primarily on the first direction, i.e., Personalized Assist
 
 <!-- - [2024/] **[]()** [] -->
 <!-- - [2024/] **[]()** [] -->
-
+- [2025/06] **[MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning](https://arxiv.org/abs/2505.24846)**
 - [2025/05] **[Reasoning Meets Personalization: Unleashing the Potential of Large Reasoning Model for Personalized Generation](https://arxiv.org/abs/2505.17571)**
 - [2025/05] **[Extended Inductive Reasoning for Personalized Preference Inference from Behavioral Signals](https://arxiv.org/abs/2505.18071)**
 - [2025/05] **[Steering Large Language Models for Machine Translation Personalization](https://arxiv.org/abs/2505.16612)**
