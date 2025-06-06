@@ -51,7 +51,7 @@ Our current focus is primarily on the first direction, i.e., Personalized Assist
 - [2025/03] **[EmpathyAgent: Can Embodied Agents Conduct Empathetic Actions?](https://www.arxiv.org/abs/2503.16545)**
 - [2025/03] **[From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment](https://arxiv.org/abs/2503.15463)**
 - [2025/03] **[Toward Multi-Session Personalized Conversation: A Large-Scale Dataset and Hierarchical Tree Framework for Implicit Reasoning](https://arxiv.org/abs/2503.07018)**
-- [2025/05] **[Drift: Decoding-time Personalized Alignments with Implicit User Preferences](https://arxiv.org/abs/2502.14289)**
+- [2025/02] **[Drift: Decoding-time Personalized Alignments with Implicit User Preferences](https://arxiv.org/abs/2502.14289)**
 - [2025/02] **[When Personalization Meets Reality: A Multi-Faceted Analysis of Personalized Preference Learning](https://arxiv.org/abs/2502.19158)**
 - [2025/02] **[Amulet: ReAlignment During Test Time for Personalized Preference Adaptation of LLMs](https://arxiv.org/abs/2502.19148)**
 - [2025/02] **[PEToolLLM: Towards Personalized Tool Learning in Large Language Models](https://arxiv.org/abs/2502.18980)**
