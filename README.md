@@ -36,7 +36,8 @@ Our current focus is primarily on the first direction, i.e., Personalized Assist
 
 <!-- - [2024/] **[]()** -->
 <!-- - [2024/] **[]()** -->
-
+- [2025/06] **[SynthesizeMe! Inducing Persona-Guided Prompts for Personalized Reward Models in LLMs](https://arxiv.org/abs/2506.05598)**
+- [2025/06] **[PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time](https://arxiv.org/abs/2506.06254)**
 - [2025/06] **[Aligning VLM Assistants with Personalized Situated Cognition](https://arxiv.org/abs/2506.00930)**
 - [2025/06] **[MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning](https://arxiv.org/abs/2505.24846)**
 - [2025/05] **[Reasoning Meets Personalization: Unleashing the Potential of Large Reasoning Model for Personalized Generation](https://arxiv.org/abs/2505.17571)**
