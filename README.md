@@ -40,6 +40,7 @@ Our current focus is primarily on the first direction, i.e., Personalized Assist
 - [2025/06] **[PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time](https://arxiv.org/abs/2506.06254)**
 - [2025/06] **[Aligning VLM Assistants with Personalized Situated Cognition](https://arxiv.org/abs/2506.00930)**
 - [2025/06] **[MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning](https://arxiv.org/abs/2505.24846)**
+- [2025/05] **[When Harry Meets Superman: The Role of The Interlocutor in Persona-Based Dialogue Generation](https://arxiv.org/abs/2505.24613)**
 - [2025/05] **[Reasoning Meets Personalization: Unleashing the Potential of Large Reasoning Model for Personalized Generation](https://arxiv.org/abs/2505.17571)**
 - [2025/05] **[Extended Inductive Reasoning for Personalized Preference Inference from Behavioral Signals](https://arxiv.org/abs/2505.18071)**
 - [2025/05] **[Steering Large Language Models for Machine Translation Personalization](https://arxiv.org/abs/2505.16612)**
