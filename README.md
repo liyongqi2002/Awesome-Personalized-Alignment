@@ -36,6 +36,8 @@ Our current focus is primarily on the first direction, i.e., Personalized Assist
 
 <!-- - [2024/] **[]()** -->
 <!-- - [2024/] **[]()** -->
+- [2025/06] **[Personalized LLM Decoding via Contrasting Personal Preference](https://arxiv.org/abs/2506.12109)**
+- [2025/06] **[PersonaFeedback: A Large-scale Human-annotated Benchmark For Personalization](https://arxiv.org/abs/2506.12915)**
 - [2025/06] **[PersonaLens: A Benchmark for Personalization Evaluation in Conversational AI Assistants](https://arxiv.org/abs/2506.09902)**
 - [2025/06] **[SynthesizeMe! Inducing Persona-Guided Prompts for Personalized Reward Models in LLMs](https://arxiv.org/abs/2506.05598)**
 - [2025/06] **[PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time](https://arxiv.org/abs/2506.06254)**
