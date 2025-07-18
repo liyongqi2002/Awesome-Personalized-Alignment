@@ -66,6 +66,7 @@ Our current focus is primarily on the first direction, i.e., Personalized Assist
 - [2024/09] **[Everyone Deserves A Reward: Learning Customized Human Preferences](https://arxiv.org/abs/2309.03126)**
 - [2024/12] **[AI PERSONA: Towards Life-long Personalization of LLMs](https://arxiv.org/abs/2412.13103)**
 - [2024/11] **[BAPO: Base-Anchored Preference Optimization for Overcoming Forgetting in Large Language Models Personalization](https://aclanthology.org/2024.findings-emnlp.398.pdf)**
+- [2024/11] **[The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models](https://openreview.net/forum?id=DFr5hteojx)**
 - [2024/10] **[Large Language Models Empowered Personalized Web Agents](https://arxiv.org/abs/2410.17236)**
 - [2024/10] **[ComPO: Community Preferences for Language Model Personalization](https://arxiv.org/abs/2410.16027)**
 - [2024/10] **[MetaAlign: Align Large Language Models with Diverse Preferences during Inference Time](https://arxiv.org/abs/2410.14184)**
