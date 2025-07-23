@@ -36,6 +36,7 @@ Our current focus is primarily on the first direction, i.e., Personalized Assist
 
 <!-- - [2024/] **[]()** -->
 <!-- - [2024/] **[]()** -->
+- [2025/07] **[PrefPalette: Personalized Preference Modeling with Latent Attributes](https://arxiv.org/abs/2507.13541)**
 - [2025/07] **[CoSteer: Collaborative Decoding-Time Personalization via Local Delta Steering](https://arxiv.org/abs/2507.04756)**
 - [2025/07] **[PRIME: Large Language Model Personalization with Cognitive Memory and Thought Processes](https://arxiv.org/abs/2507.04607)**
 - [2025/06] **[Personalized LLM Decoding via Contrasting Personal Preference](https://arxiv.org/abs/2506.12109)**
