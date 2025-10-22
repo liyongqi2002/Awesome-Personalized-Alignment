@@ -13,7 +13,6 @@ Personalized Alignment can be broadly categorized into two directions based on u
 Our current focus is primarily on the first direction, i.e., Personalized Assistant. For the latter, Intrinsic Personalization, we suggest exploring papers related to the role-playing or social agent studies of LLMs.
 
 
-
 ## 1 Papers 
 
 
@@ -36,6 +35,9 @@ Our current focus is primarily on the first direction, i.e., Personalized Assist
 
 <!-- - [2024/] **[]()** -->
 <!-- - [2024/] **[]()** -->
+
+- [2025/10] **[Towards Faithful and Controllable Personalization via Critique-Post-Edit Reinforcement Learning](https://arxiv.org/abs/2510.18849)**
+- [2025/10] **[POPI: Personalizing LLMs via Optimized Natural Language Preference Inference](https://arxiv.org/abs/2510.17881)**
 - [2025/07] **[PrefPalette: Personalized Preference Modeling with Latent Attributes](https://arxiv.org/abs/2507.13541)**
 - [2025/07] **[CoSteer: Collaborative Decoding-Time Personalization via Local Delta Steering](https://arxiv.org/abs/2507.04756)**
 - [2025/07] **[PRIME: Large Language Model Personalization with Cognitive Memory and Thought Processes](https://arxiv.org/abs/2507.04607)**
