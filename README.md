@@ -35,7 +35,7 @@ Our current focus is primarily on the first direction, i.e., Personalized Assist
 
 <!-- - [2024/] **[]()** -->
 <!-- - [2024/] **[]()** -->
-- [2026/02] **[P-GenRM: Personalized Generative Reward Model with Test-time User-based Scaling](https://openreview.net/forum?id=hXNApWLBZG)** --
+- [2026/02] **[P-GenRM: Personalized Generative Reward Model with Test-time User-based Scaling](https://openreview.net/forum?id=hXNApWLBZG)** 
 - [2025/10] **[Towards Faithful and Controllable Personalization via Critique-Post-Edit Reinforcement Learning](https://arxiv.org/abs/2510.18849)**
 - [2025/10] **[POPI: Personalizing LLMs via Optimized Natural Language Preference Inference](https://arxiv.org/abs/2510.17881)**
 - [2025/07] **[PrefPalette: Personalized Preference Modeling with Latent Attributes](https://arxiv.org/abs/2507.13541)**
