@@ -35,6 +35,13 @@ Our current focus is primarily on the first direction, i.e., Personalized Assist
 
 <!-- - [2024/] **[]()** -->
 <!-- - [2024/] **[]()** -->
+
+- [2026/02] **[Learning to summarize user information for personalized reinforcement learning from human feedback](https://openreview.net/forum?id=Ar078WR3um)**
+- [2026/02] **[Think-While-Generating: On-the-Fly Reasoning for Personalized Long-Form Generation](https://openreview.net/forum?id=lle0aGQyQb)**
+- [2026/02] **[Swap-guided Preference Learning for Personalized Reinforcement Learning from Human Feedback](https://openreview.net/forum?id=nc28mSbyVG)**
+- [2026/02] **[Personalized Reasoning: Just-in-time Personalization and Why LLMs Fail at It](https://openreview.net/forum?id=O1hfVE0UxG)**
+- [2026/02] **[NextQuill: Causal Preference Modeling for Enhancing LLM Personalization](https://openreview.net/forum?id=xYpVlKMFqv)**
+- [2026/02] **[What's In My Human Feedback? Learning Interpretable Descriptions of Preference Data](https://openreview.net/forum?id=sC6A1bFDUt)**
 - [2026/02] **[P-GenRM: Personalized Generative Reward Model with Test-time User-based Scaling](https://openreview.net/forum?id=hXNApWLBZG)** 
 - [2025/10] **[Towards Faithful and Controllable Personalization via Critique-Post-Edit Reinforcement Learning](https://arxiv.org/abs/2510.18849)**
 - [2025/10] **[POPI: Personalizing LLMs via Optimized Natural Language Preference Inference](https://arxiv.org/abs/2510.17881)**
