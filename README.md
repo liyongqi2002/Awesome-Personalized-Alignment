@@ -36,6 +36,7 @@ Our current focus is primarily on the first direction, i.e., Personalized Assist
 <!-- - [2024/] **[]()** -->
 <!-- - [2024/] **[]()** -->
 
+- [2026/03] **[Personalized Group Relative Policy Optimization for Heterogenous Preference Alignment](https://arxiv.org/abs/2603.10009)**
 - [2026/02] **[Learning to summarize user information for personalized reinforcement learning from human feedback](https://openreview.net/forum?id=Ar078WR3um)**
 - [2026/02] **[Think-While-Generating: On-the-Fly Reasoning for Personalized Long-Form Generation](https://openreview.net/forum?id=lle0aGQyQb)**
 - [2026/02] **[Swap-guided Preference Learning for Personalized Reinforcement Learning from Human Feedback](https://openreview.net/forum?id=nc28mSbyVG)**
