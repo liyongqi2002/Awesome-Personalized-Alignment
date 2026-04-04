@@ -4,13 +4,13 @@
 [![Stars](https://img.shields.io/github/stars/liyongqi2002/Awesome-Personalized-Alignment)](.)
 
 
-Personalized Alignment can be broadly categorized into two directions based on usage:
+Personalized Alignment can be broadly categorized into two directions:
 
-1. **Personalized Assistant**: This involves developing AI assistants that are better tailored to meet users' personalized needs and preferences.
+1. **Personalized Assistant**: Building AI assistants that adaptively serve users' individual needs, preferences, and goals.
 
-2. **Intrinsic Personalization**: This focuses on enabling AI to exhibit personalized internal characteristics and personality traits, akin to role-playing. This approach is utilized in social simulations or the development of social agents.
+2. **Intrinsic Personalization**: Equipping AI with internalized personality traits and characteristics, commonly seen in role-playing scenarios, social simulations, and agent-based modeling.
 
-Our current focus is primarily on the first direction, i.e., Personalized Assistant. For the latter, Intrinsic Personalization, we suggest exploring papers related to the role-playing or social agent studies of LLMs.
+This repository focuses primarily on Personalized Assistant. For work on Intrinsic Personalization, we recommend exploring the literature on role-playing agents.
 
 
 ## 1 Papers 
