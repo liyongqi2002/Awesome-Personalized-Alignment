@@ -4,6 +4,8 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fyour-website-url.com)](https://liyongqi2002.github.io/personalized_alignment_paper_collection)
 [![Stars](https://img.shields.io/github/stars/liyongqi2002/Awesome-Personalized-Alignment)](.)
 
+## 📢 News
+- **[2026/04/10]** 🚀 We have launched our official website! Check out the curated collection of personalized alignment papers here: [Awesome Personalized Alignment](https://liyongqi2002.github.io/personalized_alignment_paper_collection).
 
 Personalized Alignment can be broadly categorized into two directions:
 
