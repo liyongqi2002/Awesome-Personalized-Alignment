@@ -5,7 +5,7 @@
 [![Stars](https://img.shields.io/github/stars/liyongqi2002/Awesome-Personalized-Alignment)](.)
 
 ## 📢 News
-- **[2026/04/10]** 🚀 We have launched our official website! Check out the curated collection of personalized alignment papers here: [Awesome Personalized Alignment](https://liyongqi2002.github.io/personalized_alignment_paper_collection).
+- **[2026/04/10]** 🚀 We have launched our website! Check out the curated collection of personalized alignment papers here: [Awesome Personalized Alignment](https://liyongqi2002.github.io/personalized_alignment_paper_collection).
 
 
 ## Scope
