@@ -18,10 +18,11 @@ Personalized Alignment can be broadly categorized into two directions:
 > **Note:** This repository focuses primarily on **Personalized Assistant**. For work on *Intrinsic Personalization*, we recommend exploring the literature on role-playing agents.
 
 
-## 1 Papers 
+## Papers 
 
+> **Note:** All papers listed here are manually curated by the maintainers through daily reading and rigorous screening to ensure high quality and relevance. 
 
-### 1.1 Relevant Position and Survey Papers
+### Position and Survey Papers
 
 - [2025/04] **[A Survey on Personalized and Pluralistic Preference Alignment in Large Language Models](https://arxiv.org/abs/2504.07070v1)**
 - [2025/03] **[A Survey on Personalized Alignment -- The Missing Piece for Large Language Models in Real-World Applications](https://arxiv.org/abs/2503.17003)**
@@ -36,7 +37,7 @@ Personalized Alignment can be broadly categorized into two directions:
 <!-- - [2024/] **[]()** [] -->
 
 
-### 1.2 Personalized Preference
+### Personalized Preference
 
 <!-- - [2024/] **[]()** -->
 <!-- - [2024/] **[]()** -->
