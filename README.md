@@ -1,5 +1,6 @@
 # Awesome-Personalized-Alignment
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fyour-website-url.com)](https://liyongqi2002.github.io/personalized_alignment_paper_collection)
 [![Stars](https://img.shields.io/github/stars/liyongqi2002/Awesome-Personalized-Alignment)](.)
 
