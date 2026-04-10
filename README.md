@@ -20,7 +20,7 @@ Personalized Alignment can be broadly categorized into two directions:
 
 ## Papers 
 
-> **Note:** All papers listed here are manually curated by the maintainers through daily reading and rigorous screening to ensure high quality and relevance. 
+> **Note:** All papers listed here are **manually** curated by the maintainers through daily reading and rigorous screening to ensure high quality and relevance. 
 
 ### Position and Survey Papers
 
