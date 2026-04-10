@@ -7,13 +7,15 @@
 ## 📢 News
 - **[2026/04/10]** 🚀 We have launched our official website! Check out the curated collection of personalized alignment papers here: [Awesome Personalized Alignment](https://liyongqi2002.github.io/personalized_alignment_paper_collection).
 
+
+## Scope
+
 Personalized Alignment can be broadly categorized into two directions:
 
 1. **Personalized Assistant**: Building AI assistants that adaptively serve users' individual needs, preferences, and goals.
-
 2. **Intrinsic Personalization**: Equipping AI with internalized personality traits and characteristics, commonly seen in role-playing scenarios, social simulations, and agent-based modeling.
 
-This repository focuses primarily on Personalized Assistant. For work on Intrinsic Personalization, we recommend exploring the literature on role-playing agents.
+> **Note:** This repository focuses primarily on **Personalized Assistant**. For work on *Intrinsic Personalization*, we recommend exploring the literature on role-playing agents.
 
 
 ## 1 Papers 
