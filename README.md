@@ -45,6 +45,7 @@ Personalized Alignment can be broadly categorized into two directions:
 - [2026/03] **[Personalized RewardBench: Evaluating Reward Models with Human Aligned Personalization](https://arxiv.org/abs/2604.07343)**
 - [2026/03] **[AlpsBench: An LLM Personalization Benchmark for Real-Dialogue Memorization and Preference Alignment](https://arxiv.org/abs/2603.26680)**
 - [2026/03] **[Personalized Group Relative Policy Optimization for Heterogenous Preference Alignment](https://arxiv.org/abs/2603.10009)**
+- [2026/03] **[Language Models Don't Know What You Want: Evaluating Personalization in Deep Research Needs Real Users](https://arxiv.org/abs/2603.16120)**
 - [2026/02] **[Learning to summarize user information for personalized reinforcement learning from human feedback](https://openreview.net/forum?id=Ar078WR3um)**
 - [2026/02] **[Think-While-Generating: On-the-Fly Reasoning for Personalized Long-Form Generation](https://openreview.net/forum?id=lle0aGQyQb)**
 - [2026/02] **[Swap-guided Preference Learning for Personalized Reinforcement Learning from Human Feedback](https://openreview.net/forum?id=nc28mSbyVG)**
