@@ -41,7 +41,7 @@ Personalized Alignment can be broadly categorized into two directions:
 
 <!-- - [2024/] **[]()** -->
 <!-- - [2024/] **[]()** -->
-
+- [2026/04] **[PersonaVLM: Long-Term Personalized Multimodal LLMs](https://arxiv.org/abs/2604.13074)**
 - [2026/04] **[Personalized RewardBench: Evaluating Reward Models with Human Aligned Personalization](https://arxiv.org/abs/2604.07343)**
 - [2026/03] **[AlpsBench: An LLM Personalization Benchmark for Real-Dialogue Memorization and Preference Alignment](https://arxiv.org/abs/2603.26680)**
 - [2026/03] **[Personalized Group Relative Policy Optimization for Heterogenous Preference Alignment](https://arxiv.org/abs/2603.10009)**
