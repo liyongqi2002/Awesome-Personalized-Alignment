@@ -41,6 +41,8 @@ Personalized Alignment can be broadly categorized into two directions:
 
 <!-- - [2024/] **[]()** -->
 <!-- - [2024/] **[]()** -->
+
+- [2026/04] **[From Recall to Forgetting: Benchmarking Long-Term Memory for Personalized Agents](https://arxiv.org/abs/2604.20006)**
 - [2026/04] **[Personalized Benchmarking: Evaluating LLMs by Individual Preferences](https://arxiv.org/abs/2604.18943)**
 - [2026/04] **[CoPA: Benchmarking Personalized Question Answering with Data-Informed Cognitive Factors](https://arxiv.org/abs/2604.14773)**
 - [2026/04] **[PersonaVLM: Long-Term Personalized Multimodal LLMs](https://arxiv.org/abs/2604.13074)**
