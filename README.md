@@ -41,6 +41,7 @@ Personalized Alignment can be broadly categorized into two directions:
 
 <!-- - [2024/] **[]()** -->
 <!-- - [2024/] **[]()** -->
+- [2026/04] **[Personalized Benchmarking: Evaluating LLMs by Individual Preferences](https://arxiv.org/abs/2604.18943)**
 - [2026/04] **[CoPA: Benchmarking Personalized Question Answering with Data-Informed Cognitive Factors](https://arxiv.org/abs/2604.14773)**
 - [2026/04] **[PersonaVLM: Long-Term Personalized Multimodal LLMs](https://arxiv.org/abs/2604.13074)**
 - [2026/04] **[Personalized RewardBench: Evaluating Reward Models with Human Aligned Personalization](https://arxiv.org/abs/2604.07343)**
