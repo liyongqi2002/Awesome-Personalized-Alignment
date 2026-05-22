@@ -44,6 +44,7 @@ Personalized Alignment can be broadly categorized into two directions:
 
 - [2026/05] **[APM: Evaluating Style Personalization in LLMs with Arbitrary Preference Mappings](https://arxiv.org/abs/2605.21063)**
 - [2026/05] **[From Volume to Value: Preference-Aligned Memory Construction for On-Device RAG](https://arxiv.org/abs/2605.18271)**
+- [2026/05] **[Test-Time Personalization: A Diagnostic Framework and Probabilistic Fix for Scaling Failures](https://arxiv.org/abs/2605.10991)**
 - [2026/04] **[Preference Heads in Large Language Models: A Mechanistic Framework for Interpretable Personalization](https://arxiv.org/abs/2604.22345)**
 - [2026/04] **[From Recall to Forgetting: Benchmarking Long-Term Memory for Personalized Agents](https://arxiv.org/abs/2604.20006)**
 - [2026/04] **[Personalized Benchmarking: Evaluating LLMs by Individual Preferences](https://arxiv.org/abs/2604.18943)**
