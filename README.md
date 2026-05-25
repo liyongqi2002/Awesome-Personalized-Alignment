@@ -42,6 +42,7 @@ Personalized Alignment can be broadly categorized into two directions:
 <!-- - [2024/] **[]()** -->
 <!-- - [2024/] **[]()** -->
 
+- [2026/05] **[From Correctness to Preference: A Framework for Personalized Agentic Reinforcement Learning](https://arxiv.org/abs/2605.23382)**
 - [2026/05] **[APM: Evaluating Style Personalization in LLMs with Arbitrary Preference Mappings](https://arxiv.org/abs/2605.21063)**
 - [2026/05] **[From Volume to Value: Preference-Aligned Memory Construction for On-Device RAG](https://arxiv.org/abs/2605.18271)**
 - [2026/05] **[Test-Time Personalization: A Diagnostic Framework and Probabilistic Fix for Scaling Failures](https://arxiv.org/abs/2605.10991)**
