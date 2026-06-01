@@ -42,6 +42,8 @@ Personalized Alignment can be broadly categorized into two directions:
 <!-- - [2024/] **[]()** -->
 <!-- - [2024/] **[]()** -->
 
+
+- [2026/06] **[Preference-Aware Rubric Learning for Personalized Evaluation](https://arxiv.org/abs/2605.31545)**
 - [2026/05] **[MATO: Multi-objective Personalized Alignment with Test-time Optimization for Large Language Models](https://arxiv.org/abs/2605.25342)**
 - [2026/05] **[Know You Before You Speak: User-State Modeling for LLM Personalization in Multi-Turn Conversation](https://arxiv.org/abs/2605.24647)**
 - [2026/05] **[From Correctness to Preference: A Framework for Personalized Agentic Reinforcement Learning](https://arxiv.org/abs/2605.23382)**
