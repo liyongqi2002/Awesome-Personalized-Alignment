@@ -42,7 +42,9 @@ Personalized Alignment can be broadly categorized into two directions:
 <!-- - [2024/] **[]()** -->
 <!-- - [2024/] **[]()** -->
 
-
+- [2026/06] **[TriAlign: Towards Universal Truth Consistency in Personalized LLM Alignment](https://arxiv.org/abs/2606.01755)**
+- [2026/06] **[Beyond Isolated Behaviors: Hierarchical User Modeling for LLM Personalization](https://arxiv.org/abs/2606.02300)**
+- [2026/06] **[From Empathy to Personalized Empathy: Adapting Empathetic Strategies to Individual Users](https://arxiv.org/abs/2606.00728)**
 - [2026/06] **[Preference-Aware Rubric Learning for Personalized Evaluation](https://arxiv.org/abs/2605.31545)**
 - [2026/05] **[MATO: Multi-objective Personalized Alignment with Test-time Optimization for Large Language Models](https://arxiv.org/abs/2605.25342)**
 - [2026/05] **[Know You Before You Speak: User-State Modeling for LLM Personalization in Multi-Turn Conversation](https://arxiv.org/abs/2605.24647)**
