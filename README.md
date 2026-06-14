@@ -71,6 +71,7 @@ Personalized Alignment can be broadly categorized into two directions:
 - [2026/02] **[Aligning Language Models from User Interactions](https://arxiv.org/abs/2603.12273)**
 - [2025/10] **[Towards Faithful and Controllable Personalization via Critique-Post-Edit Reinforcement Learning](https://arxiv.org/abs/2510.18849)**
 - [2025/10] **[POPI: Personalizing LLMs via Optimized Natural Language Preference Inference](https://arxiv.org/abs/2510.17881)**
+- [2025/09] **[Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations](https://arxiv.org/abs/2509.16457)**
 - [2025/07] **[PrefPalette: Personalized Preference Modeling with Latent Attributes](https://arxiv.org/abs/2507.13541)**
 - [2025/07] **[CoSteer: Collaborative Decoding-Time Personalization via Local Delta Steering](https://arxiv.org/abs/2507.04756)**
 - [2025/07] **[PRIME: Large Language Model Personalization with Cognitive Memory and Thought Processes](https://arxiv.org/abs/2507.04607)**
