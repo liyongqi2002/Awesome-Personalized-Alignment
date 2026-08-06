@@ -5,6 +5,7 @@
 [![Stars](https://img.shields.io/github/stars/liyongqi2002/Awesome-Personalized-Alignment)](.)
 
 ## 📢 News
+- **[2026/08/06]** A note from the repo maintainer: with the arrival of the agent era, personalized alignment has started to intersect with memory and self-improvement as well. We are therefore working on re-taxonomizing existing work. Stay tuned.🤗
 - **[2026/04/10]** 🚀 We have launched our website! Check out the curated collection of personalized alignment papers here: [Awesome Personalized Alignment](https://liyongqi2002.github.io/personalized_alignment_paper_collection).
 
 
