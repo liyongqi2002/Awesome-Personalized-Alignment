@@ -1,8 +1,14 @@
 # Awesome-Personalized-Alignment
 
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fyour-website-url.com)](https://liyongqi2002.github.io/personalized_alignment_paper_collection)
 [![Stars](https://img.shields.io/github/stars/liyongqi2002/Awesome-Personalized-Alignment)](.)
+
+
+## 👤 Maintainer
+
+**Yongqi Li** — [Homepage](https://liyongqi2002.github.io/)
 
 ## 📢 News
 - **[2026/08/06]** A note from the repo maintainer: with the arrival of the agent era, personalized alignment has started to intersect with memory and self-improvement as well. We are therefore working on re-taxonomizing existing work. Stay tuned.🤗
