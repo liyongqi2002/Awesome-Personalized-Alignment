@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/liyongqi2002/Awesome-Personalized-Alignment)](.)
 
 
-## 👤 Maintainer
+## 👤 Curator
 
 **Yongqi Li** — [Homepage](https://liyongqi2002.github.io/)
 
