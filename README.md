@@ -1,8 +1,14 @@
 # Awesome-Personalized-Alignment
 
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fyour-website-url.com)](https://liyongqi2002.github.io/personalized_alignment_paper_collection)
 [![Stars](https://img.shields.io/github/stars/liyongqi2002/Awesome-Personalized-Alignment)](.)
+
+
+## 👤 Curator
+
+**Yongqi Li** — [Homepage](https://liyongqi2002.github.io/)
 
 ## 📢 News
 - **[2026/04/10]** 🚀 We have launched our website! Check out the curated collection of personalized alignment papers here: [Awesome Personalized Alignment](https://liyongqi2002.github.io/personalized_alignment_paper_collection).
@@ -41,7 +47,9 @@ Personalized Alignment can be broadly categorized into two directions:
 
 <!-- - [2024/] **[]()** -->
 <!-- - [2024/] **[]()** -->
-
+- [2026/09] **[PGMem: Tightly Coupled Persona–Memory Graph for Lifelong Personalized Agents](https://arxiv.org/abs/2608.01708)**
+- [2026/08] **[PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents](https://arxiv.org/abs/2608.04003)**
+- [2026/08] **[The Personalization Mirage: How LLMs Fabricate User Profiles, and Why Self-Monitoring Misleads](https://arxiv.org/abs/2608.04570)**
 - [2026/06] **[TriAlign: Towards Universal Truth Consistency in Personalized LLM Alignment](https://arxiv.org/abs/2606.01755)**
 - [2026/06] **[Beyond Isolated Behaviors: Hierarchical User Modeling for LLM Personalization](https://arxiv.org/abs/2606.02300)**
 - [2026/06] **[From Empathy to Personalized Empathy: Adapting Empathetic Strategies to Individual Users](https://arxiv.org/abs/2606.00728)**
@@ -71,6 +79,7 @@ Personalized Alignment can be broadly categorized into two directions:
 - [2026/02] **[Aligning Language Models from User Interactions](https://arxiv.org/abs/2603.12273)**
 - [2025/10] **[Towards Faithful and Controllable Personalization via Critique-Post-Edit Reinforcement Learning](https://arxiv.org/abs/2510.18849)**
 - [2025/10] **[POPI: Personalizing LLMs via Optimized Natural Language Preference Inference](https://arxiv.org/abs/2510.17881)**
+- [2025/09] **[TagPR: Tag-Guided Process Supervision for Personalization Reasoning in Large Language Models](https://arxiv.org/abs/2509.23140)**
 - [2025/09] **[Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations](https://arxiv.org/abs/2509.16457)**
 - [2025/07] **[PrefPalette: Personalized Preference Modeling with Latent Attributes](https://arxiv.org/abs/2507.13541)**
 - [2025/07] **[CoSteer: Collaborative Decoding-Time Personalization via Local Delta Steering](https://arxiv.org/abs/2507.04756)**
