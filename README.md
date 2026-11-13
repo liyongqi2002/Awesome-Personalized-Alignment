@@ -17,7 +17,7 @@ Personalized Alignment can be broadly categorized into two directions:
 1. **Personalized Assistant**: Building AI assistants that adaptively serve users' individual needs, preferences, and goals.
 2. **Intrinsic Personalization**: Equipping AI with internalized personality traits and characteristics, commonly seen in role-playing scenarios, social simulations, and agent-based modeling.
 
-> **Note:** This repository focuses primarily on **Personalized Assistant**. For work on *Intrinsic Personalization*, we recommend exploring the literature on role-playing agents.
+In this repository, we focus on **Personalized Assistant**. For work on *Intrinsic Personalization*, we recommend exploring the literature on role-playing agents.
 
 
 ## Papers 
