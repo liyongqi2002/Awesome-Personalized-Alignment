@@ -47,6 +47,7 @@ Personalized Alignment can be broadly categorized into two directions:
 
 <!-- - [2024/] **[]()** -->
 <!-- - [2024/] **[]()** -->
+- [2026/11] **[Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction](https://arxiv.org/abs/2611.10439)**
 - [2026/09] **[PGMem: Tightly Coupled Persona–Memory Graph for Lifelong Personalized Agents](https://arxiv.org/abs/2608.01708)**
 - [2026/08] **[PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents](https://arxiv.org/abs/2608.04003)**
 - [2026/08] **[The Personalization Mirage: How LLMs Fabricate User Profiles, and Why Self-Monitoring Misleads](https://arxiv.org/abs/2608.04570)**
