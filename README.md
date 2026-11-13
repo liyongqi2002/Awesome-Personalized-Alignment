@@ -6,7 +6,6 @@
 [![Stars](https://img.shields.io/github/stars/liyongqi2002/Awesome-Personalized-Alignment)](.)
 
 
-## 📢
 - **[2026/11/13]** We welcome contributions from the community, so you can just add papers that are related to this topic using a pull request.
 - **[2026/04/10]** 🚀 We have launched our website! Check out the curated collection of personalized alignment papers here: [Awesome Personalized Alignment](https://liyongqi2002.github.io/personalized_alignment_paper_collection).
 
