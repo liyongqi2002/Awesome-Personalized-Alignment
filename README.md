@@ -47,6 +47,7 @@ In this repository, we focus on **Personalized Assistant**. For work on *Intrins
 - [2026/09] **[PGMem: Tightly Coupled Persona–Memory Graph for Lifelong Personalized Agents](https://arxiv.org/abs/2608.01708)**
 - [2026/08] **[PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents](https://arxiv.org/abs/2608.04003)**
 - [2026/08] **[The Personalization Mirage: How LLMs Fabricate User Profiles, and Why Self-Monitoring Misleads](https://arxiv.org/abs/2608.04570)**
+- [2026/07] **[From Passive Retrieval to Active Memory Navigation: Learning to Use Memory as a Structured Action Space](https://arxiv.org/abs/2607.05794)**
 - [2026/06] **[TriAlign: Towards Universal Truth Consistency in Personalized LLM Alignment](https://arxiv.org/abs/2606.01755)**
 - [2026/06] **[Beyond Isolated Behaviors: Hierarchical User Modeling for LLM Personalization](https://arxiv.org/abs/2606.02300)**
 - [2026/06] **[From Empathy to Personalized Empathy: Adapting Empathetic Strategies to Individual Users](https://arxiv.org/abs/2606.00728)**
